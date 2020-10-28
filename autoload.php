@@ -2,7 +2,7 @@
 
 /**
  * CamelCase to snake_case class autoloader!
- * github.com/moisesduartem/snakeloader
+ * github.com/moisesduartem/snake-autoloader
  * by Moisés Mariano
  */
 
